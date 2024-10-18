@@ -12,16 +12,16 @@
   <tr>
     <td>
       <picture> 
-        <source srcset="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" /> 
-        <source srcset="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
-        <img src="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" /> 
+        <source srcset="https://github-readme-stats-doanhieung.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" /> 
+        <source srcset="https://github-readme-stats-doanhieung.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
+        <img src="https://github-readme-stats-doanhieung.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" /> 
       </picture>
     </td>
     <td>
       <picture> 
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_mocha&hide_border=true" media="(prefers-color-scheme: dark)" /> 
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_latte&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_latte&hide_border=true" /> 
+        <source srcset="https://github-readme-stats-doanhieung.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_mocha&hide_border=true" media="(prefers-color-scheme: dark)" /> 
+        <source srcset="https://github-readme-stats-doanhieung.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_latte&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
+        <img src="https://github-readme-stats-doanhieung.vercel.app/api/top-langs/?username=doanhieung&layout=compact&theme=catppuccin_latte&hide_border=true" /> 
       </picture>
     </td>
   </tr>
