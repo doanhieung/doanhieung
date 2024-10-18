@@ -14,7 +14,7 @@
       <picture> 
         <source srcset="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" /> 
         <source srcset="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
-        <img src="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=doanhieung&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true&rank_icon=github" /> 
       </picture>
     </td>
     <td>
